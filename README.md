@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Luiz Felipe 👋
 
-<!--
-**luixfelipe0/luixfelipe0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year Software Analysis and Development student and a Java enthusiast. My focus is on building practical solutions, from my experience as an intern to the personal projects I'm developing right now.
 
-Here are some ideas to get you started:
+I’m currently diving deep into the **Java ecosystem (Spring Boot, MongoDB, Postgres)** and Android development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’m building:
+* **EldenBuilds:** An Android app I’m developing to help the Elden Ring community manage and calculate their character builds.
+* **Spring Product Management:** A backend project focused on product administration, where I implemented features like Stripe webhooks for payments and SendGrid for email notifications.
+
+I'm constantly working to improve my knowledge of **Spring Security, Room, and LiveData** to build more secure and efficient applications.
+
+---
+📫 **Let's connect:** [linkedin.com/in/luixfelipe0](https://www.linkedin.com/in/luixfelipe0)
